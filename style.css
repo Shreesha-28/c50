@@ -1,0 +1,26 @@
+h1{
+    color:blue
+}
+body{
+    background-color: black;
+}
+
+.header{
+    background-color:rgb(255, 187, 0);
+    display:flex;
+    justify-content:space-between ;
+    
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+    color: salmon;
+}
